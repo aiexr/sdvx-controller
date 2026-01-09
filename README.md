@@ -16,7 +16,7 @@ I chose to use an [Arduino Leonardo w/ headers](https://store-usa.arduino.cc/pro
 
 For the **main buttons** (BT-A, BT-B, BT-C, BT-D), I was hoping to buy 60mm buttons to make it more accurate to the actual cabinet, and I found this push button on Adafruit: https://www.adafruit.com/product/6261. 50mm would have worked fine functionally, but I wanted accurate button dimensions. The rest of the parts were purchased on Amazon. 
 
-| Link | Qty | Image |
+| Product | Qty | Image |
 | --- | --- | --- |
 | [Dot PCB](https://www.amazon.com/ELEGOO-Prototype-Soldering-Compatible-Arduino/dp/B072Z7Y19F/) | 1 | <img src="media/products/pcb.png" alt="PCB" height="80" /> |
 | [35x22 knob](https://www.amazon.com/dp/B00X73QARO?ref=ppx_yo2ov_dt_b_fed_asin_title) | 2 | <img src="media/products/knob.png" alt="Knob" height="80" /> |
