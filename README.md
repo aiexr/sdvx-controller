@@ -35,9 +35,9 @@ Additionally:
 - Arduino Leonardo (used with headers)
 
 ## CAD files and printing
-[^^fusion link](https://a360.co/48BC7ad)
+[Link to Fusion360 project](https://a360.co/48BC7ad), fully parametrized. 
 
-Arduino sketch located in `./CAD/sdvx_controller.ino`
+Arduino sketch located in [`./CAD/sdvx_controller.ino`](./CAD/sdvx_controller.ino)
 
 It requires this library: https://github.com/MHeironimus/ArduinoJoystickLibrary 
 
