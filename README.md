@@ -16,14 +16,14 @@ I chose to use an [Arduino Leonardo w/ headers](https://store-usa.arduino.cc/pro
 
 For the **main buttons** (BT-A, BT-B, BT-C, BT-D), I was hoping to buy 60mm buttons to make it more accurate to the actual cabinet, and I found this push button on Adafruit: https://www.adafruit.com/product/6261. 50mm would have worked fine functionally, but I wanted accurate button dimensions. The rest of the parts were purchased on Amazon. 
 
-| Title | Link | Price | Qty | Image |
-| --- | --- | --- | --- | --- |
-| PCB | [ELEGOO Prototype PCB](https://www.amazon.com/ELEGOO-Prototype-Soldering-Compatible-Arduino/dp/B072Z7Y19F/) | See link | 1 | <img src="media/products/pcb.png" alt="PCB" height="80" /> |
-| Knob | [D-shaft knob](https://www.amazon.com/dp/B00X73QARO?ref=ppx_yo2ov_dt_b_fed_asin_title) | See link | 2 | <img src="media/products/knob.png" alt="Knob" height="80" /> |
-| Encoder | [Rotary encoder](https://www.amazon.com/dp/B00UTIFCVA?ref=ppx_yo2ov_dt_b_fed_asin_title) | See link | 2 | <img src="media/products/encoder.png" alt="Encoder" height="80" /> |
-| Start | [Start button](https://www.amazon.com/dp/B07WNFFPG5?ref=ppx_yo2ov_dt_b_fed_asin_title) | See link | 1 | <img src="media/products/start.png" alt="Start button" height="80" /> |
-| FX buttons | [FX buttons](https://www.amazon.com/dp/B07WQSBSWD?ref=ppx_yo2ov_dt_b_fed_asin_title) | See link | 2 | <img src="media/products/fx.png" alt="FX buttons" height="80" /> |
-| (60mm) Main buttons | [Adafruit 60mm button](https://www.adafruit.com/product/6261) | See link | 4 | <img src="media/products/main-buttons.png" alt="Main buttons" height="80" /> |
+| Link | Qty | Image |
+| --- | --- | --- |
+| [Dot PCB](https://www.amazon.com/ELEGOO-Prototype-Soldering-Compatible-Arduino/dp/B072Z7Y19F/) | 1 | <img src="media/products/pcb.png" alt="PCB" height="80" /> |
+| [35x22 knob](https://www.amazon.com/dp/B00X73QARO?ref=ppx_yo2ov_dt_b_fed_asin_title) | 2 | <img src="media/products/knob.png" alt="Knob" height="80" /> |
+| [600p/r encoder](https://www.amazon.com/dp/B00UTIFCVA?ref=ppx_yo2ov_dt_b_fed_asin_title) | 2 | <img src="media/products/encoder.png" alt="Encoder" height="80" /> |
+| [50x50 pushbutton](https://www.amazon.com/dp/B07WNFFPG5?ref=ppx_yo2ov_dt_b_fed_asin_title) | 1 | <img src="media/products/start.png" alt="Start button" height="80" /> |
+| [49x33 pushbutton](https://www.amazon.com/dp/B07WQSBSWD?ref=ppx_yo2ov_dt_b_fed_asin_title) | 2 | <img src="media/products/fx.png" alt="FX buttons" height="80" /> |
+| [60x60 Adafruit pushbutton](https://www.adafruit.com/product/6261) | 4 | <img src="media/products/main-buttons.png" alt="Main buttons" height="80" /> |
 
 Filament used: ~600g of [Official Creality Hyper PLA Filament 1.75mm, High Speed PLA](https://www.amazon.com/dp/B0C2BJB256?ref=ppx_yo2ov_dt_b_fed_asin_title)
 
