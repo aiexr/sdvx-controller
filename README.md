@@ -67,9 +67,7 @@ Button and encoder knob sizes, distances, cutouts are all parametrized. There ar
 
 ![Test cutouts](media/screenshots/test_cutouts.png)
 
-## Arduino configuration
-
-# WIRING
+# Wiring
 
 - Button with LED (breadboard)
 
