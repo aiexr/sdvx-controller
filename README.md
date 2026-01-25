@@ -12,10 +12,16 @@ Below is the final product of what I made:
 
 ![Completed controller](media/controller/complete.jpg)
 
-<video src="https://github.com/aiexr/sdvx-controller/blob/main/media/videos/simplegameplay.mp4" width="80%" controls></video>
-<video src="https://github.com/aiexr/sdvx-controller/blob/main/media/videos/encodermovement.mp4" width="80%" controls></video>
-
+<video src="https://github.com/user-attachments/assets/48bb6534-442d-47c3-9c97-483c5b49c126" width="80%" controls></video>
+<video src="https://github.com/user-attachments/assets/058fed3e-3493-4807-bf1f-01e18b2e095d" width="80%" controls></video>
 # Process
+
+
+
+
+
+
+
 
 I chose to use an [Arduino Leonardo w/ headers](https://store-usa.arduino.cc/products/arduino-leonardo-with-headers) to power all inputs.  
 
