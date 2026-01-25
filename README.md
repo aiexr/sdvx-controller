@@ -8,9 +8,13 @@ A Sound Voltex controller itself has 7 buttons and 2 rotary encoders. The photo 
 
 <small>image credit: https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Sanjo</small>
 
+# Demonstration
 And below is the final product of what I made:
 
 ![Completed controller](media/controller/complete.jpg)
+
+<video src="https://github.com/aiexr/sdvx-controller/blob/main/media/videos/simplegameplay.mp4" width="80%" controls></video>
+<video src="https://github.com/aiexr/sdvx-controller/blob/main/media/videos/encodermovement.mp4" width="80%" controls></video>
 
 I chose to use an [Arduino Leonardo w/ headers](https://store-usa.arduino.cc/products/arduino-leonardo-with-headers) to power all inputs.  
 
