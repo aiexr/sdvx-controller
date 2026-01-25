@@ -1,7 +1,6 @@
-# sdvx-controller
+# Overview
 This project is not intended to be a guide. I am documenting how I was able to build a controller as a beginner. This project was primarily a learning experience for me, and I hope to share what I learned.
 
-# Overview
 A Sound Voltex controller itself has 7 buttons and 2 rotary encoders. The photo below shows the controls of a real cabinet.
 
 ![SOUND VOLTEX controls](https://upload.wikimedia.org/wikipedia/commons/6/6e/SOUND_VOLTEX_Controls.JPG)
@@ -9,12 +8,14 @@ A Sound Voltex controller itself has 7 buttons and 2 rotary encoders. The photo 
 <small>image credit: https://ja.wikipedia.org/wiki/%E5%88%A9%E7%94%A8%E8%80%85:Sanjo</small>
 
 # Demonstration
-And below is the final product of what I made:
+Below is the final product of what I made:
 
 ![Completed controller](media/controller/complete.jpg)
 
 <video src="https://github.com/aiexr/sdvx-controller/blob/main/media/videos/simplegameplay.mp4" width="80%" controls></video>
 <video src="https://github.com/aiexr/sdvx-controller/blob/main/media/videos/encodermovement.mp4" width="80%" controls></video>
+
+# Process
 
 I chose to use an [Arduino Leonardo w/ headers](https://store-usa.arduino.cc/products/arduino-leonardo-with-headers) to power all inputs.  
 
