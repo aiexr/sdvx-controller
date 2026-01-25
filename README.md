@@ -12,18 +12,20 @@ Below is the final product of what I made:
 
 ![Completed controller](media/controller/complete.jpg)
 
-<video src="https://github.com/user-attachments/assets/48bb6534-442d-47c3-9c97-483c5b49c126" width="80%" controls></video>
-<video src="https://github.com/user-attachments/assets/058fed3e-3493-4807-bf1f-01e18b2e095d" width="80%" controls></video>
+<table>
+  <tr>
+    <td width="50%">
+      <video src="https://github.com/user-attachments/assets/48bb6534-442d-47c3-9c97-483c5b49c126" width="100%" controls></video>
+    </td>
+    <td width="50%">
+      <video src="https://github.com/user-attachments/assets/058fed3e-3493-4807-bf1f-01e18b2e095d" width="100%" controls></video>
+    </td>
+  </tr>
+</table>
+
 # Process
 
-
-
-
-
-
-
-
-I chose to use an [Arduino Leonardo w/ headers](https://store-usa.arduino.cc/products/arduino-leonardo-with-headers) to power all inputs.  
+I chose an [Arduino Leonardo w/ headers](https://store-usa.arduino.cc/products/arduino-leonardo-with-headers) to power all inputs.  
 
 For the **main buttons** (BT-A, BT-B, BT-C, BT-D), I was hoping to buy 60mm buttons to make it more accurate to the actual cabinet, and I found this push button on Adafruit: https://www.adafruit.com/product/6261. 50mm would have worked fine functionally, but I wanted accurate button dimensions. The rest of the parts were purchased on Amazon. 
 
