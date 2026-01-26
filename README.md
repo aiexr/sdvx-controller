@@ -1,3 +1,51 @@
+# DALI featured snippet 
+This is a branch of https://github.com/aiexr/sdvx-controller/ with a modified readme to discuss /CAD/sdvx_controller.ino 
+
+## Sound Voltex Controller Arduino Encoder and Button Logic
+### 
+
+<details open>
+<summary>sdvx_controller.ino</summary>
+
+```
+code
+```
+</details>
+
+### Motivation 
+
+### Features
+
+
+### Implementation
+
+
+
+### What I Learned
+
+### References/Sources
+
+
+### Video of working controller using the arduino code
+
+<table>
+  <tr>
+    <td width="50%">
+      <video src="https://github.com/user-attachments/assets/48bb6534-442d-47c3-9c97-483c5b49c126" width="100%" controls></video>
+    </td>
+    <td width="50%">
+      <video src="https://github.com/user-attachments/assets/058fed3e-3493-4807-bf1f-01e18b2e095d" width="100%" controls></video>
+    </td>
+  </tr>
+</table>
+
+
+# Beyond this point, the readme is the same as it is in the [main branch](https://github.com/aiexr/sdvx-controller/) 
+
+
+
+
+
 # Overview
 This project is not intended to be a guide. I am documenting how I was able to build a controller as a beginner. This project was primarily a learning experience for me, and I hope to share what I learned.
 
