@@ -1,5 +1,5 @@
 # DALI featured snippet 
-This is a branch of https://github.com/aiexr/sdvx-controller/ with a modified readme to discuss /CAD/sdvx_controller.ino 
+This is a branch of https://github.com/aiexr/sdvx-controller/ with a modified readme to discuss [/CAD/sdvx_controller.ino](https://github.com/aiexr/sdvx-controller/blob/dali/CAD/sdvx_controller.ino)
 
 ## Sound Voltex Controller Arduino Encoder and Button Logic
 ### 
