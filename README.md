@@ -209,6 +209,7 @@ void loop() {
   Joystick.sendState();
 }
 ```
+</details>
 
 Summary of the logic:
 
