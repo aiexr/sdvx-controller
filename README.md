@@ -32,7 +32,6 @@ The arduino file (.ino) is what allows the controller to be functional. It initi
 
 ### Implementation / Code Analysis
 
-### Code Analysis
 <details>
 <summary>sdvx_controller.ino</summary>
 
