@@ -29,7 +29,6 @@ enum ButtonIndex : uint8_t {
   BTN_FX_R = 9,
   BTN_START = 10
 };
-
 const uint8_t NUM_BUTTONS = 7;
 /*-------------------- Virtual joystick device setup --------------------*/
 Encoder encLeft(LEFT_ENC_A, LEFT_ENC_B);
@@ -46,7 +45,6 @@ Joystick_ Joystick(
   false, false, false       // accelerator, brake, steering
 
 );
-
 /*-------------------- Encoder and Keyboard configuration ---------------*/
 // Detents are the physical clicks that you feel when moving an encoder.
 // One detent is not typically one count.
@@ -69,7 +67,6 @@ const uint8_t ENC_KEYS[4] = {
   'd',             // ENC_R_CW
   'a'              // ENC_R_CCW
 };
-
 /*------------------------- Encoder logic & helpers ---------------------*/
 // These variables keep track of the previous recorded position of the encoders.
 long lastLeftDetent  = 0;
@@ -97,7 +94,6 @@ void serviceKeyPulses() {
     }
   }
 }
-
 /*------------------------- Arduino boot and loop ----------------------*/
 void setup() {
   Keyboard.begin();
@@ -150,13 +146,12 @@ void loop() {
 
   serviceKeyPulses();
 
-  // Example of the loop logic for one case:
+  // Example of the loop logic for the encoders: 
   // If we move the left encoder 3 detents CW, then leftDetent becomes positive 3.
   // Then, the condition of the while loop, leftDetent (3) > lastLeftDetent (0), is true.
   // This results in pulseEncoderKey(ENC_L_CW) being called 3 times, until 
   // leftDetent (3) is the same as lastLeftDetent (3) and the condition becomes false.
   
-  // -------- Physical buttons --------
   bool bt1_pressed    = (digitalRead(BT_1) == LOW);
   bool bt2_pressed    = (digitalRead(BT_2) == LOW);
   bool bt3_pressed    = (digitalRead(BT_3) == LOW);
