@@ -40,7 +40,7 @@ code
 </table>
 
 
-# Beyond this point, the readme is the same as it is in the [main branch](https://github.com/aiexr/sdvx-controller/) 
+# Beyond this point, the readme is the same as it is in the [main branch](https://github.com/aiexr/sdvx-controller/) and not specifically for the DALI full stack application.
 
 
 
